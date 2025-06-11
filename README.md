@@ -6,6 +6,10 @@ Após baixar o bootstrapper, você pode criar um pacote de instalação offline 
 vs_SSMS.exe --layout c:\localSSMSlayout --add Microsoft.Component.HelpViewer
 ~~~
 
+~~~
+.\vs_SSMS.exe --layout D:\SSMSlayout --add Microsoft.Component.HelpViewer
+~~~
+
 ### vs_SSMS.exe: 
 
 Este é o nome do bootstrapper do SSMS que você baixou.
